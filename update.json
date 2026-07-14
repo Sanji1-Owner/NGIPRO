@@ -1,5 +1,5 @@
 {
-  "version": "1.5",
+  "version": "2.0",
   "lib_url": "https://apkpure.com/ngi-pro/nika.ngipro",
-  "changelog": "Dashboard redesign, DEX/Java Disassembler, IDA View, LibDumper, Hex Editor, SDK Generator, and reliability fixes."
+  "changelog": "new tools"
 }
